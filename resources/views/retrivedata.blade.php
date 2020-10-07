@@ -321,7 +321,7 @@
                   <table class="table table-hover text-nowrap">
                     <thead>
                       <tr>
-                        <th>I</th>
+                        <th>ID</th>
                         <th>UserName</th>
                         <th>Gender</th>
                         <th>Manage</th>
