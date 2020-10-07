@@ -334,7 +334,7 @@
                       <td>{{$row['id']}}</td>
                         <td>{{$row['name']}} </td>
                         <td>{{$row['gender']}}</td>
-                        <td><button type="edit" class="btn btn-primary">Edit</button></td>
+                        <td><a href=" " class="btn btn-primary" style = "color:white">Edit</a></td>
                         <td><button type="delete" class="btn btn-primary" style = "background-color: darkred">Delete</button></td>
                         {{-- <td><span class="tag tag-success">Approved</span></td> --}}
                         {{-- <td>Bacon ipsum dolor sit amet salami venison chicken flank fatback doner.</td> --}}
